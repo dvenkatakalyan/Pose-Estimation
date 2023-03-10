@@ -5,7 +5,7 @@ Building an AI trainer using pose estimation to find number of biceps curls.
 
 
 ## Flow Chart
-![Flow chart](flow chart.PNG)
+![flow chart](flow chart.PNG)
 
 ## Appendix
 
