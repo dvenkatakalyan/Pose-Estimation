@@ -24,7 +24,7 @@ To deploy this project run
 
 
 ## Demo
-<img src="output.gif" width="500" height="300">
+<img src="output.gif" width="700" height="500">
 
 
 
