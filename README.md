@@ -24,6 +24,6 @@ To deploy this project run
 
 
 ## Demo
-<img src="output.gif" width="1000">
+![output](output.gif)
 
 
